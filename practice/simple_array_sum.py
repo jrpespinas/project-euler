@@ -1,6 +1,3 @@
-# Simple Array Sum
-# Given an array of integers, find the sum of its elements.
-
 def simpleArraySum(ar):
     """
     Returns the sum of the integers within `ar`
